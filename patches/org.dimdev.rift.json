@@ -5,10 +5,12 @@
     "formatVersion": 1,
     "+libraries": [
         {
-            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/Rift-jitpack-c283efe7bd-1/rift-jitpack-c283efe7bd-1.jar"
+            "name": "com.github.Chocohead:Rift:jitpack-c283efe7bd-1",
+            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/"
         },
         {
-            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/mixin-0.7.11-SNAPSHOT/mixin-0.7.11-SNAPSHOT.jar"
+            "name": "org.dimdev:mixin:0.7.11-SNAPSHOT",
+            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/"
         },
         {
             "name": "org.ow2.asm:asm:6.2",
