@@ -1,0 +1,40 @@
+{
+    "+tweakers": [
+        "org.dimdev.riftloader.launch.RiftLoaderClientTweaker"
+    ],
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/Rift-jitpack-c283efe7bd-1/rift-jitpack-c283efe7bd-1.jar"
+        },
+        {
+            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/mixin-0.7.11-SNAPSHOT/mixin-0.7.11-SNAPSHOT.jar"
+        },
+        {
+            "name": "org.ow2.asm:asm:6.2",
+            "url": "https://repo1.maven.org/maven2/"
+        },
+        {
+            "name": "org.ow2.asm:asm-commons:6.2",
+            "url": "https://repo1.maven.org/maven2/"
+        },
+        {
+            "name": "org.ow2.asm:asm-tree:6.2",
+            "url": "https://repo1.maven.org/maven2/"
+        },
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        }
+    ],
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "name": "Rift",
+    "releaseTime": "2019-01-20T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.13.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "uid": "org.dimdev.rift",
+    "version": "1.0.4-jitpack-c283efe7bd-1"
+}
