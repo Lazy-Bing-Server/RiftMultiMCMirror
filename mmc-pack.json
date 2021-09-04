@@ -23,14 +23,7 @@
             "version": "1.13.2"
         },
         {
-            "cachedName": "Rift",
-            "cachedRequires": [
-                {
-                    "equals": "1.13.2",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "cachedVersion": "1.0.4-jitpack-c283efe7bd-1",
+            "cachedName": "org.dimdev.rift",
             "uid": "org.dimdev.rift"
         }
     ],
