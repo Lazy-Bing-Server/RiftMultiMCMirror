@@ -5,5 +5,5 @@
 
 #### 安装教程
 
-你要做的，就是把`[https://codeload.github.com/Lazy-Bing-Server/RiftMultiMCMirror/zip/refs/heads/master](https://codeload.github.com/Lazy-Bing-Server/RiftMultiMCMirror/zip/refs/heads/master)`粘贴到MultiMC的添加实例-导入Zip压缩包，完事了
+你要做的，就是把`https://codeload.github.com/Lazy-Bing-Server/RiftMultiMCMirror/zip/refs/heads/master`粘贴到MultiMC的添加实例-导入Zip压缩包，完事了
 
