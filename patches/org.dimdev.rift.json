@@ -6,11 +6,11 @@
     "+libraries": [
         {
             "name": "com.github.Chocohead:Rift:jitpack-c283efe7bd-1",
-            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/"
+            "url": "https://raw.githubusercontent.com/Lazy-Bing-Server/RiftMultiMCMirror/master/"
         },
         {
             "name": "org.dimdev:mixin:0.7.11-SNAPSHOT",
-            "url": "https://gitee.com/lbserver/RiftMultiMCMirror/raw/master/"
+            "url": "https://raw.githubusercontent.com/Lazy-Bing-Server/RiftMultiMCMirror/master/"
         },
         {
             "name": "org.ow2.asm:asm:6.2",
